@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Writing code (and bugs) since 2022 — and learning fast from every one of them.<br><br>📚 I'm currently learning: Advanced SQL queries and database design<br><br>Backend logic with Java<br><br>Scalable systems in Software Engineering<br><br>How not to break production on a Friday 😬<br><br><br>🎯 Goals: Master full-stack development<br><br>Work on impactful real-world projects<br><br>Contribute to open-source or startup innovations<br><br>Continuously learn and grow as an engineer and a problem solver<br><br><br>🎲 Fun fact: I once automated an entire spreadsheet system just to avoid doing it manually again<br><br>I drink more coffee debugging than writing actual code ☕💻<br><br>I taught myself Python just to help outros setores da empresa — e acabei apaixonado por código<br><br>I enjoy turning "impossible" ideas into MVPs for fun</p>
+<p align="left">✨ Coding (and racking my brains) since 2022 — learning fast.<br><br>📚 Today: Advanced SQL, Java backend, scalable systems.<br><br>🎯 Goal: Be a full-stack developer, create real projects, and innovate.<br><br>🎲 Fun fact: I automated spreadsheets so I'd never have to do it manually again.<br><br>☕ Debugging more than programming. Self-taught Python developer helping teams.</p>
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h4 align="left">⭐ GitHub Stats</h4>
+<h2 align="left">⭐ GitHub Stats</h2>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<h5 align="left">Contact me</h5>
+<h3 align="left">Contact me</h3>
 
 ###
 
@@ -92,5 +92,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/theuszinp/theuszinp/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/theuszinp/theuszinp/output/snake.svg" alt="Snake animation" />
 
 ###
